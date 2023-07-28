@@ -6,6 +6,9 @@ mod m3_traits;
 mod m4_polimorphism;
 mod m5_lifetimes;
 mod m6_pattern_matching;
+mod m7_api_server;
+mod m8_collections;
+mod m9_declarative_macros; 
 
 fn main() {
     // println!("Welcome to this course {}", OUR_COURSE);
